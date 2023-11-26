@@ -1,16 +1,15 @@
-### Hi there 👋
+### "I do coding stuff."
+-- CodeSoft
 
-<!--
-**CodeSoftGit/CodeSoftGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/CodeSoftGityCodeSoftGit/blob/output/github-contribution-grid-snake.svg)
+```
+d:/> sysinfo
+CPU: 1x Human brain
+RAM: Amount of Flavored Water varies
+OS: Life v2023
+Storage: 2.5 million gigabytes
+Languages: Python, Scratch
+Interface: Memes
+Battery Life: Amount of Flavored Water varies
+Networking: Always Online
+```
