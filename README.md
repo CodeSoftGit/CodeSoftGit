@@ -30,7 +30,7 @@
 d:/> sysinfo
 CPU: 1x Human brain
 RAM: Amount of Flavored Water varies
-OS: Life v2023
+OS: Life v2024
 Storage: 2.5 million gigabytes
 Languages: Python, Scratch
 Interface: Memes
